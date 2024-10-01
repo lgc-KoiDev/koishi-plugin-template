@@ -3,11 +3,11 @@
 <div align="center">
 
 <a href="https://koishi.chat/zh-CN/market/">
-  <img src="https://raw.githubusercontent.com/lgc-KoiDev/readme/master/workspace/koishi-plugin.png" width="180" height="180" alt="NoneBotPluginLogo">
+  <img src="https://raw.githubusercontent.com/lgc-KoiDev/readme/master/workspace/koishi-plugin.png" width="180" height="180" alt="KoishiPluginLogo">
 </a>
 
 <p>
-  <img src="https://raw.githubusercontent.com/lgc-KoiDev/readme/master/workspace/KoishiPlugin.svg" width="240" alt="NoneBotPluginText">
+  <img src="https://raw.githubusercontent.com/lgc-KoiDev/readme/master/workspace/KoishiPlugin.svg" width="240" alt="KoishiPluginText">
 </p>
 
 # Koishi-Plugin-Template
@@ -18,10 +18,10 @@ _✨ 模板插件项目 ✨_
   <img src="https://img.shields.io/github/license/lgc-KoiDev/koishi-plugin-template.svg" alt="license">
 </a>
 <a href="https://www.npmjs.com/package/koishi-plugin-template">
-  <img src="https://img.shields.io/npm/v/koishi-plugin-template" alt="pypi">
+  <img src="https://img.shields.io/npm/v/koishi-plugin-template" alt="npm">
 </a>
 <a href="https://www.npmjs.com/package/koishi-plugin-template">
-  <img src="https://img.shields.io/npm/dm/koishi-plugin-template" alt="pypi download">
+  <img src="https://img.shields.io/npm/dm/koishi-plugin-template" alt="npm download">
 </a>
 <a href="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/c871162c-2c6d-4a99-8de5-c8c8d7d3a0f1">
   <img src="https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/c871162c-2c6d-4a99-8de5-c8c8d7d3a0f1.svg" alt="wakatime">
