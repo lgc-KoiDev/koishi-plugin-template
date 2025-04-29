@@ -6,9 +6,7 @@ export const name = 'template'
 export const inject = []
 
 export interface Config {}
-export const Config: Schema<Config> = Schema.intersect([
-  Schema.object({}),
-]).i18n({
+export const Config: Schema<Config> = Schema.intersect([Schema.object({})]).i18n({
   'zh-CN': zhCNLocale._config,
   zh: zhCNLocale._config,
 })
